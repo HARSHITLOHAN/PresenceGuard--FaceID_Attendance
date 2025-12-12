@@ -72,7 +72,9 @@ Variation in the training images
 Capturing well-lit, front-facing training images significantly improves performance.
 ---
 
-📂 Folder Structure (Recommended for GitHub)
+📂 Folder Structure 
+
+
 .
 ├── facetrain.py
 ├── recognizer.py
