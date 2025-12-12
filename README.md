@@ -1,4 +1,4 @@
-# PresenceGuard--FaceID_Attendance
+# PresenceGuard - FaceID_Attendance
 
 🚀 How It Works
 1️⃣ Face Enrollment
