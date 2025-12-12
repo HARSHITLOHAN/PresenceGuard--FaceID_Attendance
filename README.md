@@ -70,6 +70,7 @@ Lighting conditions
 Variation in the training images
 
 Capturing well-lit, front-facing training images significantly improves performance.
+
 ---
 
 📂 Folder Structure 
